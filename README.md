@@ -92,8 +92,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Author**: Your Name  
-**Contact**: your.email@example.com  
+**Author**: Satyam
+**Contact**: satysatyam14@gmail.com
 **Project Link**: [GitHub](https://github.com/KnightSoul9/Blogging_Website)
 
 Enjoy blogging with your custom-built platform! 📝🌟
